@@ -142,5 +142,5 @@ This project represents over **14 hours of focused development**, real-world con
 
 It is built on the belief that **properly captured failure becomes intelligence**.
 
-http://github.com/billyrdavis1985-bot?neural-replay-pack
+http://github.com/billyrdavis1985-bot/neural-replay-pack
 
